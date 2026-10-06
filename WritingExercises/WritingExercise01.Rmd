@@ -25,6 +25,12 @@ Mammalian expression introduces ER translocation, calnexin/calreticulin cycling,
 Fc-containing rProteins exhibit host-dependent glycoform distributions affecting FcγR engagement, ADCC, CDC and FcRn-mediated recycling, while EPO production depends on site-specific N- and O-glycan occupancy. 
 Insulin maturation requires proinsulin processing, C-peptide excision and native A/B-chain disulfide connectivity, making chassis genotype, secretion competence, ER capacity and PTM repertoire key determinants of recombinant product quality. 
 
+ >     Comments: 
+>      Overall comprehensive cover of material, however language is highly specialised and lacking context "Floating facts".  
+>Abbreviations are often not explained (e.g. SDS-PAGE, SEC-MALS, RP-HPLC and LC-MS). 
+
+
+
 
 ## Writing sample 2
 
@@ -34,12 +40,14 @@ Scientists over the past several decades have performed a number of studies that
 This has included looking at factors such as the amount of protein produced, how pure the final product is, or how active it is. 
 Different approaches can be used for different proteins and in different situations. In industrial biotechnology, considerable effort has been made to build a vast knowledgebase of information that scientists can leverage to choose the best host organism to produce their particular recombinant protein product. 
 
+> Introduction is strong but quite informal. Well contextualised but lacking in reported findings
 
 There are a number of multifaceted factors that can influence the production of recombinant proteins, and these may vary considerably depending on the specific protein, the chosen production system, and the intended application of the recombinant product. 
 It is therefore important to take a holistic approach when considering the different factors that may impact the overall production process and to ensure that these are appropriately taken into account during system development. 
 By doing so, it is possible to optimise the production process while also ensuring that the resulting product is aligned with the requirements of its intended application, including any relevant consideration of regulatory, legal, or other considerations associated with the intended product or application. 
 Consideration of the different approaches available can therefore play an important role in enabling informed decision-making by the discerning industrial biotechnologist, allowing them to identify the most suitable strategy for achieving the desired production outcomes across a range of different applications and production contexts.
 
+> Good amount of context provided, clearly outlined aims, no significant finding are reported yet however it is likely that a results section is to be added later. 
 
 ## Writing sample 3
 
@@ -52,4 +60,9 @@ Some products (e.g., insulin, monoclonal antibodies) require disulfide bond form
 Others (e.g., monoclonal antibodies, erythropoietin) must be correctly glycosylated. 
 Therefore, selection of an expression host system that is able to produce a given product with the post-translational modifications necessary for that product's activity is essential. 
 
+> strong structure, clear path 
+>contextualised well, lacking in 
 
+
+
+> lack of referencing in all, 
