@@ -26,12 +26,16 @@ After each step of your editing process, use the "commit" process to save your c
 
 Introduction
 
-In this article, we will examine three microbes that play important roles in industrial biotechnology. 
-Humans have an epic relationship with microbes. 
+In this article, we will examine three microbes with vital roles in industrial biotechnology.  
 From birth, we are colonized by microbes, and over the course of our lives, we associate with microbes (as part of our microbiome and in the external environment) that have profound impacts on our health and well-being. 
 This includes positive effects (microbes that promote immune system development, aid in digestion, protect against incoming pathogens), to negative ones (microbes involved in food spoilage, and human pathogens that cause diseases that range from mild colds and self-limiting infections to life-threatening illnesses). 
 In more recent years, however, microbes have been intentionally exploited by humans, beginning from the early domestication of certain species to aid in food fermentation, to the current day, where cutting-edge technologies harness the power of microbes for industrial biotechnology. 
 
+
+Escherichia coli
+
+It remains indisputable that E. coli has been an important and influential model organism, essential to a number of breakthrough discoveries, and that it remains important as an industrial biotechnology workhorse (for example, for cloning, protein expression, and even for use as a probiotic - e.g., E. coli Nissle strains). ===
+ grow  inside an industrial bioreactor,  for recombinant protein impression or to improve its characteristics as a production host ("chassis")  useful for IB purposes. ===
 
 Corynebacterium glutamicum
 
@@ -61,10 +65,4 @@ For example, some interesting recent work has demonstrated that the yeast strain
 Further work by master brewers, yeast geneticists, and industrial biotechnologists will doubtless result in the production of many more strains with valuable and distinct properties. 
 
 
-Escherichia coli
-
-Jacques Monod famously wrote of E. coli, "What is true for E. coli is true for the elephant" (He shared the Nobel Prize in 1965 with Jacob and Lwoff, for their work which unveiled mechanisms for gene regulation, a field which remains a fruitful area of study today). 
-Although there are many things that are true for E. coli that are not true for elephants, for example, the fact that E. coli can use flagellar motility and chemotaxis to avoid toxic compounds or move towards chemoattractants (Ser, Asp, ribose, galactose, dipeptides, O2, and pyrimidines). 
-However, it remains indisputable that E. coli has been an important and influential model organism, essential to a number of breakthrough discoveries, and that it remains important as an industrial biotechnology workhorse (for example, for cloning, protein expression, and even for use as a probiotic - e.g., E. coli Nissle strains). 
-After all, it is impossible to grow an elephant inside an industrial bioreactor, even though some bioreactors are very large indeed; and even if you could grow an elephant in such a bioreactor, it remains impractical (and ethically questionable) as to whether you could genetically modify the elephant for recombinant protein impression or to improve its characteristics as a production host ("chassis") organism useful for IB purposes. 
 
